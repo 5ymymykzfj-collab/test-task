@@ -49,8 +49,5 @@
             </tbody>
         </table>
 
-        <div class="pagination">
-            {{ $books->links() }}
-        </div>
     </div>
 @endsection
